@@ -1,0 +1,158 @@
+/* CSS Document */
+body{
+	font:Verdana;
+	font-size:12px;
+	background:#CCC;
+}
+
+#container{
+	width:50%;
+	margin-left:300px;
+	padding:10px;
+	background-color:#FFF;
+	overflow:hidden;
+	border-radius:40px ;
+	box-shadow: 6px 6px 14px #999;
+}
+.header{
+	background:#CCC;
+	padding:10px;
+	margin:5px;
+	width:650px;
+	border-radius:40px ;
+	box-shadow: 6px 6px 14px #999;
+}
+
+.main{
+	background:#CCC;
+	padding:10px;
+	margin:5px;
+	width:650px;
+	border-radius:40px ;
+	box-shadow: 6px 6px 14px #999;
+}
+
+b
+{
+	text-decoration:none;
+	color:#FFF;
+}
+
+textarea{
+	border-radius:40px ;
+	box-shadow: 6px 6px 14px #999;
+	border:none;
+}
+form a{
+	border-radius:40px ;
+	box-shadow: 6px 6px 14px #999;
+}
+.uname{
+	color:#009;
+	font-size:14px;
+	font-weight:bold;
+	border-radius:40px ;
+	box-shadow: 6px 6px 14px #999;
+}
+ .msg{
+	color:#F00;
+	font-size:14px;
+	 border-radius:40px ;
+	 box-shadow: 6px 6px 14px #999;
+}
+.button{
+    padding: 10px 15px;
+    background: #4479BA;
+    color: #FFF;
+	position:absolute;
+}
+#chatlogs{
+	background:#FFF;
+	padding:5px;
+	height:400px;
+	overflow:scroll;
+}
+
+
+a{
+	color:#069;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+h1, h2, h3, h4, h5{
+	margin-bottom:15px;
+}
+h1{
+	text-align:center;
+	font-size:28px;
+}
+h2{
+	text-align:left;
+	font-size:26px;
+	margin-bottom:0px;
+	margin:20px;
+}
+h3{
+	text-align:right;
+	font-size:14px;
+	margin-bottom:0px;
+	overflow:hidden;
+	border-radius:40px ;
+	box-shadow: 6px 6px 14px #999;
+	padding:10px;
+}
+h4{
+	background:#999;
+	padding:10px;
+	height:110px;
+	overflow:hidden;
+	margin:10px;
+	border-radius:40px ;
+	box-shadow: 6px 6px 14px #999;
+}
+h5{
+	text-align:left;
+	font-size:14px;
+	padding:10px;
+	margin-bottom:0px;
+	overflow:hidden;
+}
+
+.main table{
+	width:350px;
+	float:right;
+
+
+}
+h4 table{
+	width:200px;
+	float:right;
+}
+
+h4 input{
+	border-radius:40px ;
+	border:none;
+	padding:2px;
+	box-shadow: 6px 6px 14px #999;
+}
+.main table th, h4 table th{
+	padding:10px;
+	background-color:#999;
+	color:#FFF;
+	text-align:center;
+	font-weight:bold;
+}
+.main table td, h4 table td{
+	padding:5px;
+}
+.main tr, h4 tr{
+	background-color:#CCC;
+}
+
+
+td{
+	border-radius:40px ;
+	box-shadow: 6px 6px 14px #999;
+}
